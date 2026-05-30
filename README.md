@@ -17,3 +17,6 @@
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31waoinuetthfmranoyj6kxp3bly&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=617f89&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
 </p>
 
+
+  <h6 align="center">
+  i love my farzie
